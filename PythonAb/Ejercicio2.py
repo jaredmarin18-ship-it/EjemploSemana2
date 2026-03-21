@@ -1,0 +1,5 @@
+frase = input("Ingrese su frase aqui")
+print("original :", frase)
+print("Mayusuculas :", frase.upper())
+print("Minusculas :", frase.lower())
+print(len(frase))
